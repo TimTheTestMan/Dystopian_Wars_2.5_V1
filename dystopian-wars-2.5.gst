@@ -1,40 +1,51 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gameSystem id="9ebd1ee7-c2e1-4ee9-a8ad-8695d2ecb162" name="Dystopian Wars 2.5" revision="1" battleScribeVersion="2.03" authorName="Community (unofficial)" authorContact="" authorUrl="" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
+<gameSystem id="b2caa4c2-7b55-4fb1-a660-640e34eaf1a6" name="Dystopian Wars 2.5" revision="1" battleScribeVersion="2.03" authorName="Community (unofficial)" authorContact="" authorUrl="" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
   <costTypes>
-    <costType id="4cbc1e68-9484-40b1-aae1-fc105edf12f1" name="Points" defaultCostLimit="0" hidden="false"/>
+    <costType id="61a7b610-b4b8-4d23-94c3-0c68520429ea" name="Points" defaultCostLimit="0" hidden="false"/>
   </costTypes>
   <profileTypes>
-    <profileType id="b96e8589-ced8-414c-8c4c-12efd28b536b" name="Model Stats">
+    <profileType id="fe879af4-b126-4d90-be58-df558fcdfe64" name="Model Stats">
       <characteristicTypes>
-        <characteristicType id="bc88191e-7566-4505-b6d9-07bc55177e7f" name="Role"/>
-        <characteristicType id="0fdf85e0-d744-4d76-b24b-ffe349c3e8de" name="Crew Type"/>
-        <characteristicType id="7aea514b-d891-4546-a7be-75922bb13c41" name="Class"/>
-        <characteristicType id="c55aeffb-de1d-480f-a135-57c1016e4642" name="Min Move"/>
-        <characteristicType id="ff986c3c-74f3-471b-a11e-360f8bb827b8" name="Turning Template"/>
-        <characteristicType id="fc7ca732-98d2-40ad-b14d-774f4faa40be" name="Turn Limit"/>
-        <characteristicType id="7e08a77a-5e64-424a-a908-ef5e63c88326" name="Squadron Size"/>
-        <characteristicType id="259810da-c8ec-4be4-b01d-8ce9600c4832" name="Primary Weapon (RB1/RB2/RB3/RB4)"/>
-        <characteristicType id="7bc42582-e0f4-4642-841c-70c2afa6567c" name="DR"/>
-        <characteristicType id="6208c213-9ab9-4d7d-870b-c4c711d0a6d1" name="CR"/>
-        <characteristicType id="7bd00015-52e9-4e64-b553-2e6430e9df15" name="MV"/>
-        <characteristicType id="156098ad-daae-485e-a26f-26111c06d7cc" name="HP"/>
-        <characteristicType id="5eca084d-ba5d-43f8-b963-fa526a27d0dd" name="AP"/>
-        <characteristicType id="3849d4dc-a798-4145-b21b-4f1ed6004514" name="AA"/>
-        <characteristicType id="32009e77-2c2c-43d9-ac20-109d3114a559" name="CC"/>
-        <characteristicType id="a70562b5-56d4-4534-86fd-8cc3875f8859" name="IR"/>
-        <characteristicType id="466ff76b-4abc-4ced-9ad8-28a3498f3161" name="Other Weapons (see rulebook for RB values)"/>
-        <characteristicType id="be5f2e89-1972-47c5-82ce-657d83b242ed" name="Model Assigned Rules (MARs)"/>
-        <characteristicType id="87708afb-35c4-4ead-867a-4db01f012f98" name="Options / Upgrades (points not auto-added)"/>
-        <characteristicType id="373cb179-6e21-401d-a25c-ec093eedb3d1" name="Special Rules"/>
+        <characteristicType id="1b74d1d2-6bb7-40c1-b3cf-d06d917e876f" name="Role"/>
+        <characteristicType id="b5906f37-0c9b-41fd-bd04-acf3319ab578" name="Crew Type"/>
+        <characteristicType id="b7222f78-0a12-46b8-a208-4843ed41a9d3" name="Class"/>
+        <characteristicType id="24c391ff-a36b-430b-8f3c-9ff6d4b03b62" name="Min Move"/>
+        <characteristicType id="e3a793a7-e5d5-4b8d-ac51-9230a021b274" name="Turning Template"/>
+        <characteristicType id="0c94133e-05f5-4ee8-b651-ba607b163bb9" name="Turn Limit"/>
+        <characteristicType id="711923ab-e658-4c77-bca8-bd14fbf6e901" name="Squadron Size"/>
+        <characteristicType id="f7d6c784-cd3c-48b4-8c43-5fdedd49c05e" name="Primary Weapon (RB1/RB2/RB3/RB4)"/>
+        <characteristicType id="b4b600b5-20e1-4e58-bf12-91688ea23507" name="DR"/>
+        <characteristicType id="851177cf-ac02-4e1c-af97-6f809b8ed939" name="CR"/>
+        <characteristicType id="73b37949-fe11-44c3-87f1-da226d78a00c" name="MV"/>
+        <characteristicType id="8d219e49-fcb2-4e81-97f8-450134773d4e" name="HP"/>
+        <characteristicType id="73935329-38fa-4b64-9997-2aa8a7520694" name="AP"/>
+        <characteristicType id="fca78c32-0ac7-4e79-a093-bcab492e634b" name="AA"/>
+        <characteristicType id="de722dc6-8ca4-46ad-b423-c8955ca42fe7" name="CC"/>
+        <characteristicType id="336c10b6-2e55-4e45-9828-0833b0f543ce" name="IR"/>
+        <characteristicType id="72f8c236-58a4-437f-aefb-bbfff006293d" name="Other Weapons (see rulebook for RB values)"/>
+        <characteristicType id="4690a9cc-4bdf-445c-93c5-02376275e398" name="Model Assigned Rules (MARs)"/>
+        <characteristicType id="c70f3d8c-885c-486e-b446-957a93081bda" name="Options / Upgrades (points not auto-added)"/>
+        <characteristicType id="a096c539-115c-4596-8439-04ad3b0a1b1d" name="Special Rules"/>
       </characteristicTypes>
     </profileType>
   </profileTypes>
   <categoryEntries>
-    <categoryEntry id="917469a8-53f1-472d-95e4-7cddbbbe177d" name="Naval" hidden="false"/>
-    <categoryEntry id="887d8745-43c6-4b7b-ab75-aa49b4c408c1" name="Aerial" hidden="false"/>
-    <categoryEntry id="fdef102c-b4a3-4ef8-abc5-eb7d99708151" name="Armoured &amp; Robots" hidden="false"/>
-    <categoryEntry id="22a3253a-cbce-4096-8341-58a661dcbb34" name="Fortifications" hidden="false"/>
-    <categoryEntry id="cda114f9-d24e-442c-96b3-0dbadc417d30" name="Infantry" hidden="false"/>
+    <categoryEntry id="dbb49a6a-e4fd-44a7-9dc5-ddb0c7b0e8f8" name="Naval" hidden="false"/>
+    <categoryEntry id="45e801ae-1761-4443-8468-23f0930ef56e" name="Aerial" hidden="false"/>
+    <categoryEntry id="735ace26-b74e-4dc2-a921-93a8b1eb3162" name="Armoured &amp; Robots" hidden="false"/>
+    <categoryEntry id="db4d007f-515c-4b11-81b8-9838e2e0a970" name="Fortifications" hidden="false"/>
+    <categoryEntry id="bc43cf79-da31-4ef9-a61a-2adcc963a5c3" name="Infantry" hidden="false"/>
   </categoryEntries>
+  <forceEntries>
+    <forceEntry id="819a8864-f3d5-412c-a792-5581681e76fb" name="Covenant of Antarctica Force" hidden="false">
+      <categoryLinks>
+        <categoryLink id="6847d980-c089-4faf-b073-5ff005825103" name="Naval" hidden="false" targetId="dbb49a6a-e4fd-44a7-9dc5-ddb0c7b0e8f8" primary="false"/>
+        <categoryLink id="9e8f3008-dd59-472f-9e94-ec150dc3701c" name="Aerial" hidden="false" targetId="45e801ae-1761-4443-8468-23f0930ef56e" primary="false"/>
+        <categoryLink id="b1c1ade4-32c1-4028-99a2-ccdf194ce200" name="Armoured &amp; Robots" hidden="false" targetId="735ace26-b74e-4dc2-a921-93a8b1eb3162" primary="false"/>
+        <categoryLink id="2920ad38-0443-46bc-a43e-dafb549c3f07" name="Fortifications" hidden="false" targetId="db4d007f-515c-4b11-81b8-9838e2e0a970" primary="false"/>
+        <categoryLink id="029187b2-ab87-4502-a4a3-f14d3cd446c5" name="Infantry" hidden="false" targetId="bc43cf79-da31-4ef9-a61a-2adcc963a5c3" primary="false"/>
+      </categoryLinks>
+    </forceEntry>
+  </forceEntries>
   <publications/>
 </gameSystem>
