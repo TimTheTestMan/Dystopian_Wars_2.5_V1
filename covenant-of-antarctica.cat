@@ -1,0 +1,1785 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="f4d7c819-1923-4e66-ba67-3ba453fde9d7" name="Covenant of Antarctica (Dystopian Wars 2.5)" revision="1" battleScribeVersion="2.03" authorName="Community (unofficial)" authorContact="" authorUrl="" library="false" gameSystemId="9ebd1ee7-c2e1-4ee9-a8ad-8695d2ecb162" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <categoryLinks>
+    <categoryLink id="a06df655-6d2d-4f72-a9d3-a553e9313a1a" name="Naval" hidden="false" targetId="917469a8-53f1-472d-95e4-7cddbbbe177d"/>
+    <categoryLink id="06ccfa15-9e7f-49ac-94e9-73d50dc1c391" name="Aerial" hidden="false" targetId="887d8745-43c6-4b7b-ab75-aa49b4c408c1"/>
+    <categoryLink id="8239b7bf-eb4f-4753-87d7-433cc9c6082e" name="Armoured &amp; Robots" hidden="false" targetId="fdef102c-b4a3-4ef8-abc5-eb7d99708151"/>
+    <categoryLink id="627806ba-db17-4182-8368-ab09c7d9f811" name="Fortifications" hidden="false" targetId="22a3253a-cbce-4096-8341-58a661dcbb34"/>
+    <categoryLink id="494fe3a5-9f6a-4da6-a455-2d8d6826ae3a" name="Infantry" hidden="false" targetId="cda114f9-d24e-442c-96b3-0dbadc417d30"/>
+  </categoryLinks>
+  <selectionEntries>
+    <selectionEntry id="2a73eb07-50ae-41ec-9fe0-4774cd30e4c1" name="Diophantus - Dreadnought Assault Carrier" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="dbe75e82-a46f-46d9-a4e4-a797f192eca0" name="Naval" hidden="false" targetId="917469a8-53f1-472d-95e4-7cddbbbe177d" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="265"/>
+      </costs>
+      <profiles>
+        <profile id="eeb3f27b-76cd-4aed-9836-8bfad6320d09" name="Diophantus" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Dreadnought Assault Carrier</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Elite</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Massive Naval Capital Wave Lurker Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">2"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">Large</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">1</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Particle Accelerator (S): 12 / - / - / -</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">7</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">13</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">6"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">10</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">9</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">7</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">6</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">7</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">Lower P/S Broadside (S); Raised P/S Broadside (S); Surface Mines x3; Fore Torpedoes (T)</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Carrier (6, 1x5 Drone Wings); Combat Coordinator (COA SAS, 8", Sustained Fire [All, 2]); Faster Torpedoes; Fuel Reserves; Inventive Scientists; Strategic Value (100)</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">Replace Carrier (6,1x5 Drone Wings) with Carrier (6,2x4 Drone Wings) for +30pts. Fitted with Internal Shield (3) Generator free. May add an additional Internal Mine Controller (8") Generator for +15pts.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="e8cd06ea-5c47-4f81-9300-281961417818" name="Prometheus - Dreadnought" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="2800e0fb-8e86-4402-90dd-b4d133da70c1" name="Naval" hidden="false" targetId="917469a8-53f1-472d-95e4-7cddbbbe177d" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="310"/>
+      </costs>
+      <profiles>
+        <profile id="0dc2fdca-64f0-4d82-9838-1bae7df754bc" name="Prometheus" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Dreadnought</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Elite</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Massive Naval Capital Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">2"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">Large</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">1</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Main Turret (P): 12 / 10 / 8 / 6</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">7</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">13</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">6"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">10</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">10</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">8</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">4</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">8</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">Beam Turret (P); Fore Bombard (P); Particle Accelerator (S); P/S Broadside (S); Heavy Energy Turret (S)</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Inventive Scientists; Strategic Value (100); Combat Coordinator (COA, SAS, Vertical Dive, 8")</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">Internal Shield (3) Generator free. May add ONE of: Target Painter (Turrets,16") +20pts; Mine Controller (12") +20pts; Dilation Field (12") +15pts. May swap Main+Beam Turrets (P) for Heavy Energy Turrets (S) free.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="ef159419-a5db-45a1-85db-6b11f3da284c" name="Pericles - Fleet Carrier" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="ae856e8d-fb09-49db-a724-f7718d03fada" name="Naval" hidden="false" targetId="917469a8-53f1-472d-95e4-7cddbbbe177d" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="170"/>
+      </costs>
+      <profiles>
+        <profile id="baba891c-b968-4574-97f6-1f1013637b30" name="Pericles" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Fleet Carrier</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Elite</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Massive Naval Capital Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">2"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">Large</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">1</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Main Turret (P): 9 / 7 / 6 / 4</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">5</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">8</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">6"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">8</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">6</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">7</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">4</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">5</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">P/S Broadside (S); Fore Torpedoes (T); Energy Turret (S)</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Carrier (9, 2x4 Drone Wings); Faster Torpedoes; Fuel Reserves; Inventive Scientists; Strategic Value (100); Combat Coordinator (COA, SAS, 12", Acrobatic Pilots, Hunter (Aerial) +1)</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">Internal Shield (2) Generator fitted. May replace Main Turrets (P) with Energy Turrets (S) free.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="c69a4b99-990f-4c84-a722-d843cc3a8e0a" name="Aristotle - Battleship" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="59675507-d408-4336-be21-b9b818a71de2" name="Naval" hidden="false" targetId="917469a8-53f1-472d-95e4-7cddbbbe177d" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="185"/>
+      </costs>
+      <profiles>
+        <profile id="fd22bf38-6856-4914-8bd7-7b93e2964df5" name="Aristotle" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Battleship</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Elite</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Large Naval Capital Wave Lurker Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">2"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">Large</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">1</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Raised Main Turret (P): 9 / 7 / 5 / 3</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">6</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">10</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">7"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">8</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">6</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">6</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">6</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">6</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">Lower Main Turret (P); Lower P/S Broadside (S); Raised Energy Turret (S); Lower Energy Turret (S); Particle Accelerator (S)</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Advanced Engines (+2"); Inventive Scientists; Combat Coordinator (COA, SAS, Hunter, Submerged +1)</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">Internal Shield (3) Generator free. May add ONE of: Target Painter (Primary Weaponry,12") +5pts; Disruption Generator (8") +5pts.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="38cca83d-2777-4269-a3fb-bb161acdba54" name="Menedaius - R&amp;D Tender Ship" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="74098049-adb1-4434-87a2-ffdf17500a08" name="Naval" hidden="false" targetId="917469a8-53f1-472d-95e4-7cddbbbe177d" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="175"/>
+      </costs>
+      <profiles>
+        <profile id="690924f2-4b60-48d1-b68d-f4a7df0369c7" name="Menedaius" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">R&amp;D Tender Ship</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Defensive</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Large Naval Capital Repair Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">2"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">Large</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">1</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Main Turret (P): 9 / 7 / 6 / 4</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">5</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">9</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">6"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">8</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">8</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">7</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">5</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">4</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">Fore Torpedoes (T); P/S Broadsides (S); Energy Turret (S)</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Experienced Engineers; Faster Torpedoes; Fuel Reserves; Inventive Scientists; Squadron Support (Newton Repair Vessels, 4); Specialised Defences (3); Strategic Value (50)</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">Internal Shield (3) Generator free. Sturginium (P/S Broadsides) Munitions Type. May replace Main Turrets (P) with Energy Turrets (S) free.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">EDUCATED IN SOLUTIONS: a successful Repair Friendly Boarding Action also removes one Critical Effect or Persistent Effect Marker in addition to any other results.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="e2bfe5da-bd80-4d39-8814-6c29e6e9e1c5" name="Descartes Mk II - 'Assault' Battleship" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="6a4c68b2-7bbc-453b-80b3-5798b1eaac79" name="Naval" hidden="false" targetId="917469a8-53f1-472d-95e4-7cddbbbe177d" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="175"/>
+      </costs>
+      <profiles>
+        <profile id="3ed28fed-8a7c-4797-8746-14a99b0dc34a" name="Descartes Mk II" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">'Assault' Battleship</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Elite</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Large Capital Naval Wave Lurker Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">2"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">Large</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">1</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Energy Blast (S): 5D6 / 4D6 / 2D6 / 1D6</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">5</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">9</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">8"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">7</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">9</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">5</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">5</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">5</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">Lower P/S Broadsides (S); Fore Torpedoes (T)</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Advanced Engines (+2"); Faster Torpedoes; Inventive Scientists; Long Range Assault; Specialised Defences (2); Combat Coordinator (CoA: Sustained Assault 1, 8")</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">Internal Guardian (2,8",Protective=1) Generator and External Target Painter (16",Torpedoes) free. Sturginium (Lower P/S Broadsides) Munitions Type.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">Inverter-Cell Capacitor: when this model would gain a Generators Offline Token, roll a D6 - on a 4,5 or 6 the token is not applied.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="ea29240f-fb86-4836-a63b-cba49440ebf9" name="Hippasus - Battlecruiser" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="0c5c74fe-09bf-44b4-9523-8833709287e1" name="Naval" hidden="false" targetId="917469a8-53f1-472d-95e4-7cddbbbe177d" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="120"/>
+      </costs>
+      <profiles>
+        <profile id="b729e2c8-25eb-413a-aba7-314b9d9f44a9" name="Hippasus" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Battlecruiser</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Elite</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Medium Naval Capital Wave Lurker Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">2"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">Medium</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">1</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Lower Fore Main Turret (P): 9 / 7 / 5 / 3</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">5</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">7</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">7"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">6</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">5</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">4</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">4</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">5</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">Raised Aft Main Turret (P); Fore Torpedoes (T); Lower P/S Broadsides (S); Raised Aft Energy Turret (S); Lower Fore Energy Turret (S)</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Combat Coordinator (CoA:SAS, Acrobatic Pilots, 8"); Combat Patrol; Evasive Manoeuvre (+1); Faster Torpedoes; Inventive Scientists; Strategic Value (25)</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">Internal Shield (2) Generator and External Teleport (Small,24") Generator free. May replace Main Turrets (P) with Energy Turrets (S) for +15pts.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="b20a2e07-86f3-498c-a095-eaf07df06f9d" name="Descartes Mk I - 'Harrier' Battleship" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="a2e0ad68-ca83-4e5a-a0b5-176dd2f80143" name="Naval" hidden="false" targetId="917469a8-53f1-472d-95e4-7cddbbbe177d" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="170"/>
+      </costs>
+      <profiles>
+        <profile id="90268a03-47b2-4891-b7c3-95865575aec2" name="Descartes Mk I" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">'Harrier' Battleship</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Elite</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Large Capital Naval Wave Lurker Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">2"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">Large</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">1</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Raised Energy Turret (S): 6 / 6 / 6 / 6</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">5</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">9</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">8"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">7</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">7</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">5</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">5</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">5</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">Lower Energy Turret (S); Lower P/S Broadsides (S); Fore Torpedoes (T)</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Advanced Engines (+2"); Faster Torpedoes; Inventive Scientists; Hit and Run; Evasive Manoeuvres (+1)</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">Internal Shield (2) Generator and External Time Flow (16") Generator free. Sturginium (Lower P/S Broadsides) Munitions Type.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="85534498-dc99-44af-9ec3-e3c9d65b5f3b" name="Kepler - Drone Launcher" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="6e5b20c9-adfe-4c6d-b91a-da32e628a635" name="Naval" hidden="false" targetId="917469a8-53f1-472d-95e4-7cddbbbe177d" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="95"/>
+      </costs>
+      <profiles>
+        <profile id="1ee28800-de81-47c1-a9ae-505edb53264c" name="Kepler" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Drone Launcher</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Elite</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Medium Naval Capital Wave Lurker Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">2"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">Medium</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">1-2</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Lower P/S Energy Broadsides (S): 6 / 6 / 6 / 6</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">5</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">6</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">8"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">5</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">4</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">3</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">5</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">3</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">None</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Attachment (CoA: Aristotle, 1); Carrier (5, 1x4 Wing); Experienced Engineers; Fuel Reserves; Inventive Scientists; Specialised Defences (2); Strategic Value (25); Combat Coordinator (COA, SAS, 8", Hunter (surface) +1)</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">Internal Shield (2) Generator fitted.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="b8441fa4-aa4c-44c0-a68f-313dde671617" name="Fresnel - Gunship" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="a733d882-4cc3-4462-8d2c-68d7b674fcbc" name="Naval" hidden="false" targetId="917469a8-53f1-472d-95e4-7cddbbbe177d" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="100"/>
+      </costs>
+      <profiles>
+        <profile id="947839cb-eb54-48ae-9781-cd4ae7a006bf" name="Fresnel" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Gunship</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Elite</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Medium Naval Capital Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">2"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">Medium</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">1-2</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Heavy Energy Turret (S): 6 / 6 / 6 / 6</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">4</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">7</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">8"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">5</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">3</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">3</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">2</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">3</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">Energy Turret (S); P/S Energy Broadside (S)</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Inventive Scientists; Strategic Value (25); Vulnerable</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">Internal Shield (2) Generator fitted.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="d34ca0ba-d002-425c-a299-67f2228631c7" name="Cleomedes - Cruiser" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="9bdd681e-4a49-47e4-b1e1-f0786e34a4c3" name="Naval" hidden="false" targetId="917469a8-53f1-472d-95e4-7cddbbbe177d" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="80"/>
+      </costs>
+      <profiles>
+        <profile id="ee718385-688a-40c7-825e-af01eca3c3f9" name="Cleomedes" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Cruiser</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Elite</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Medium Naval Capital Wave Lurker Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">2"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">Medium</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">2-3</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Lower Main Turret (P): 9 / 7 / 5 / 3</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">4</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">6</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">8"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">5</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">4</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">3</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">3</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">4</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">Fore Torpedoes (T); Lower P/S Broadsides (S); Lower Energy Turret (S)</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Faster Torpedoes; Inventive Scientists</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">Internal Shield (2) Generator fitted. May replace Main Turret (P) with Energy Turret (S) free.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="0951c682-8f3d-419d-a498-d0abe97dfd38" name="Zeno - Armoured Cruiser" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="a92042a5-ca4b-4996-a3c7-7c58b66ce099" name="Naval" hidden="false" targetId="917469a8-53f1-472d-95e4-7cddbbbe177d" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="90"/>
+      </costs>
+      <profiles>
+        <profile id="a79e8c7d-f464-47ab-b62c-933138e0b758" name="Zeno" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Armoured Cruiser</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Elite</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Medium Naval Capital Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">2"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">Medium</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">1-3</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">P/S Broadsides (S): 10 / 8 / 4 / 2</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">5</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">6</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">9"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">6</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">5</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">3</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">2</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">5</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">Particle Accelerator (S); Surface Mines x1</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Inventive Scientists</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">Internal Shield (2) Generator fitted.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="2789c550-09c8-49f8-a719-3c3ce0c93c5c" name="Praxilla - Hunter Killer Submarine" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="09cb78a9-b2b6-41fb-980d-76b8735612cb" name="Naval" hidden="false" targetId="917469a8-53f1-472d-95e4-7cddbbbe177d" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="80"/>
+      </costs>
+      <profiles>
+        <profile id="5b7d3e6a-72cb-49e0-9a1c-1caea81b0bd0" name="Praxilla" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Hunter Killer Submarine</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Elite</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Medium Naval Capital Diving Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">2"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">45-Degrees</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">1-2</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Heavy Long Lance (P): 8 / 8 / 6 / 6</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">5</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">6</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">8"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">5</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">4</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">2</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">5</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">3</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">None</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Advanced Engines (+2"); Evasive Manoeuvre (+1); Hit and Run; Hunter (Surface, Long Lance, +1); Inventive Scientists; Re-Enforced Bulkheads</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">Piercing and Lethal (Long Lance) Munitions Types. Each model MUST take either Internal Shield (2) Generator for +10pts OR Internal Target Painter (Long Lance,16") for free.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="72477b34-7415-4796-bb78-2f1dbc4e1167" name="Plato - Light Cruiser" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="488c0caf-b0f2-4862-8b35-1b4f12e96198" name="Naval" hidden="false" targetId="917469a8-53f1-472d-95e4-7cddbbbe177d" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="55"/>
+      </costs>
+      <profiles>
+        <profile id="5d2edcb3-e182-4e57-906d-4e17d41e035e" name="Plato" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Light Cruiser</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Elite</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Medium Naval Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">2"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">Medium</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">2-3</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Main Turret (P): 6 / 5 / 3 / -</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">4</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">6</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">9"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">4</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">3</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">3</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">2</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">3</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">P/S Broadsides (S); Energy Turret (S)</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Inventive Scientists</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">Internal Shield (1) Generator fitted. May replace Main Turrets (P) with Energy Turrets (S) free.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="48bde582-bfb0-427f-b422-0b08c411ea3c" name="Plutarch - Heavy Destroyer" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="f4271805-6031-4c31-97c5-ffe8c94e28e8" name="Naval" hidden="false" targetId="917469a8-53f1-472d-95e4-7cddbbbe177d" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="45"/>
+      </costs>
+      <profiles>
+        <profile id="056880ae-1371-4edf-8169-8eedd0a3ac15" name="Plutarch" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Heavy Destroyer</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Elite</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Small Naval Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">2"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">Small</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">2-3</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Fore Gun (S): 5 / 4 / - / -</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">4</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">5</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">10"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">3</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">2</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">2</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">2</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">2</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">P/S Broadsides (S)</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Pack Tactics (Fore Gun); Small Target</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">Internal Shield (1) Generator fitted.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="a95a9ad6-39a0-4487-aaed-ccc19bfe90e1" name="Diogenes - Frigate" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="9426ddfd-f376-4d6b-ac8a-98eed7e00efb" name="Naval" hidden="false" targetId="917469a8-53f1-472d-95e4-7cddbbbe177d" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="25"/>
+      </costs>
+      <profiles>
+        <profile id="ae110c45-5338-451c-8a5a-4868c5926f2e" name="Diogenes" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Frigate</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Elite</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Small Naval Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">2"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">Small</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">2-4</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Fore Torpedoes (T): 3 / 3 / 3 / 3</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">3</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">5</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">12"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">2</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">1</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">2</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">2</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">1</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">P/S Broadsides (S)</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Faster Torpedoes; Hit and Run; Small Target</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">None.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="8e0f7133-9d47-471d-ae8f-81a1b8a83edb" name="Thales - Corvette" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="90166fcd-752c-4678-8ea3-85d2fd992b0a" name="Naval" hidden="false" targetId="917469a8-53f1-472d-95e4-7cddbbbe177d" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="20"/>
+      </costs>
+      <profiles>
+        <profile id="4afbc745-1f31-4d4f-a35d-3627d6e8d081" name="Thales" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Corvette</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Reckless</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Small Naval Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">2"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">Small</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">2-5</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Fore Gun (S): 5 / 3 / - / -</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">3</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">4</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">13"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">2</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">2</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">1</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">1</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">1</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">None</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Advanced Engines (+2"); Elusive Target; Hit and Run; Small Target</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">None.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="84826576-f3a8-4bfc-b053-818dfe000135" name="Galen - Escort" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="3aad5c8e-28e1-4ff0-8a80-beb02288d559" name="Naval" hidden="false" targetId="917469a8-53f1-472d-95e4-7cddbbbe177d" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="20"/>
+      </costs>
+      <profiles>
+        <profile id="a73f97aa-2324-4d02-80d4-deb5c3780ae2" name="Galen" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Escort</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Elite</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Small Naval Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">2"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">Small</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">Attachment Only</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Fore Gun (S): 5 / 4 / - / -</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">3</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">5</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">10"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">2</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">1</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">2</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">1</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">1</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">None</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Attachment (CoA: Large &amp; Massive); Elusive Target; Small Target</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">None.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="a8fe7cd3-812f-489e-ae84-3eda4ee804be" name="Newton - Support Craft" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="65642c16-77be-4950-9631-86575f545909" name="Naval" hidden="false" targetId="917469a8-53f1-472d-95e4-7cddbbbe177d" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="10"/>
+      </costs>
+      <profiles>
+        <profile id="af2fae81-ca60-4ff9-9eaa-ed88946c2901" name="Newton" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Support Craft</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Non-Combatant</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Tiny Naval Repair Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">0"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">360-Degrees</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">Squadron Support Only</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">None</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">4</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">-</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">10"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">1</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">2</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">0</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">1</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">0</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">None</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Difficult Target; Elusive Target; Fearless; Specialised Defences (1)</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">None.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="cbec62eb-b515-44fd-bc4f-ea008d00f2b6" name="Euclid - Sky Dreadnought" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="059ca1d5-0c67-471b-a82c-0b49058f7d6f" name="Aerial" hidden="false" targetId="887d8745-43c6-4b7b-ab75-aa49b4c408c1" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="300"/>
+      </costs>
+      <profiles>
+        <profile id="35a0c1ea-3726-451f-95ec-178a7b49e5ee" name="Euclid" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Sky Dreadnought</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Elite</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Massive Aerial Capital Low Level Flying Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">0"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">360-Degrees</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">1</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Particle Accelerator (S): 13 / - / - / -</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">7</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">11</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">7"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">10</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">8</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">8</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">4</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">6</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">Heavy Energy Turret (S); Rocket Battery (T) x2; Energy Turret (S)</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Carrier (6, 1x4 Drone Wings); Experienced Engineers; Fuel Reserves; Inventive Scientists; Specialised Defences (2); Strategic Value (125); Combat Coordinator (COA, SAS, Hunter (All +1), Acrobatic Pilots, Swarm Tactics, 8")</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">Internal Shield (3) Generator free. May take Combat Deployment (CoA:Colossus Robots,4) for +50pts (then may also add Combat Coordinator (CoA:Robots,Sustained Fire:1,8") for +10pts). May extend Combat Coordinator MAR to 16" for +25pts. May upgrade Carrier to (9,1x5 Drone Wings) for +20pts; or add Target Painter (Energy Weapons,16") +15pts; or Mine Controller (12") +25pts.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="e454c31d-e831-4529-a8ed-6c9a9ab247a8" name="Daedalus-Beta - Large Flyer" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="1141ed45-d5c6-4389-83b7-47bdff622e84" name="Aerial" hidden="false" targetId="887d8745-43c6-4b7b-ab75-aa49b4c408c1" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="150"/>
+      </costs>
+      <profiles>
+        <profile id="98c03ec4-41b8-4580-9d7b-4e2e12885693" name="Daedalus-Beta" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Large Flyer</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Elite</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Large Aerial Capital Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">2"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">45-Degrees</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">2"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">1</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Main Turret (P): 9 / 7 / 5 / 3</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">6</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">9</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">7"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">8</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">6</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">6</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">5</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">6</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">P/S Broadsides (S); Energy Turret (S); Surface Mines x2</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Experienced Engineers; Inventive Scientists; Combat Coordinator (COA, SAS, Heavy Ack-Ack, 8")</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">Internal Shield (3) Generator fitted. May replace Main Turrets (P) with Energy Turrets (S) free.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="35feab41-a715-4ccd-86ae-b10f3bcb11fd" name="Epicurus - Sky Fortress" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="4ff2a474-1162-4e8f-b0fd-27237e14ef78" name="Aerial" hidden="false" targetId="887d8745-43c6-4b7b-ab75-aa49b4c408c1" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="180"/>
+      </costs>
+      <profiles>
+        <profile id="4e46cf52-b649-438a-a6a6-de1c93b7c337" name="Epicurus" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Sky Fortress</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Elite</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Massive Aerial Capital Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">2"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">45-Degrees</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">2"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">1</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Main Turret (P): 9 / 7 / 5 / 3</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">6</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">10</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">6"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">8</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">6</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">7</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">6</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">6</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">P/S Broadsides (S); Energy Turret (S)</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Carrier (6, 1x5 Drone Wings); Fuel Reserves; Inventive Scientists; Strategic Value (75); Combat Coordinator (COA, SAS, Big Fuel Tanks, 8")</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">Internal Shield (3) Generator fitted. May replace Main Turrets (P) with Energy Turrets (S) for +10pts.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="e3d76daa-decd-44bb-a9d9-5bcc6b55bfaf" name="Hyperbius - Control Flyer" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="2ec0eefa-96c1-4dad-804f-d4ce3aa2a99f" name="Aerial" hidden="false" targetId="887d8745-43c6-4b7b-ab75-aa49b4c408c1" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="120"/>
+      </costs>
+      <profiles>
+        <profile id="2c231cee-17d4-465c-965b-87e92feb081d" name="Hyperbius" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Control Flyer</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Elite</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Medium Aerial Capital Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">0"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">360-Degrees</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">1</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Heavy Energy Turret (S): 7 / 7 / 7 / 7</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">5</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">7</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">10"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">5</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">4</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">5</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">3</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">2</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">Fore Rockets (T); Fore Energy Cannon (S)</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Combat Coordinator (COA:SAS, Big Fuel Tanks, Acrobatic Pilots, Hunter (Aerial +1), 8"); Combat Patrol; Hunter (Aerial, Fore Rockets, +2); Hit and Run; Inventive Scientists; Specialised Defences (2)</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">Internal Shield (2) Generator and Internal Target Painter (Energy Weapons,16",+1) free.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="eaca0976-9f98-4825-bdbe-1048e80fa7d7" name="Icarus - Medium Flyer" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="6ee442f8-37b7-49e8-a53e-fb5de3f64aed" name="Aerial" hidden="false" targetId="887d8745-43c6-4b7b-ab75-aa49b4c408c1" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="80"/>
+      </costs>
+      <profiles>
+        <profile id="2f3b3b07-f11f-4b01-a7b0-c251733e0f6a" name="Icarus" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Medium Flyer</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Elite</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Medium Aerial Capital Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">2"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">45-Degrees</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">1"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">2-3</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Main Turret (P): 9 / 7 / 5 / 3</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">4</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">6</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">8"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">5</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">4</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">4</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">4</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">3</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">P/S Broadsides (S); Fore Guns (S); Energy Turret (S)</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Inventive Scientists; Spotter (16")</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">Internal Shield (2) Generator fitted. May replace Main Turret (P) with Energy Turret (S) free.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="ff19a8f2-c2b4-46c4-9648-8062108f9502" name="Ptolemy - Mine-Layer Flyer" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="f8af6622-6e5f-44e4-8225-7fc65a4bafcb" name="Aerial" hidden="false" targetId="887d8745-43c6-4b7b-ab75-aa49b4c408c1" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="65"/>
+      </costs>
+      <profiles>
+        <profile id="7501ba85-9ba0-49ec-9822-d327e302ee74" name="Ptolemy" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Mine-Layer Flyer</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Defensive</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Medium Aerial Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">0"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">360-Degrees</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">2-3</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Surface Mine x2: 4 / - / - / -</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">4</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">6</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">12"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">4</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">2</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">4</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">3</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">2</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">None</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Evasive Manoeuvre (+1); Spotter (16")</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">None.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="ae410ec3-bf02-4bc7-8428-e7c2bab6e4a5" name="Capek - Interceptor" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="9d50c8fe-baf3-4f6c-a163-2d122701e178" name="Aerial" hidden="false" targetId="887d8745-43c6-4b7b-ab75-aa49b4c408c1" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="70"/>
+      </costs>
+      <profiles>
+        <profile id="9438b82e-e9b3-418e-b9b3-dc9abd8a9bc7" name="Capek" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Interceptor</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Elite</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Medium Aerial Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">0"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">360-Degrees</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">2-3</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Fore Energy Guns (S): 6 / 6 / - / -</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">4</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">6</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">10"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">4</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">3</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">4</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">2</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">2</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">Fore Rockets (T)</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Hunter (Aerial, Fore Rockets, +2); Hit and Run</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">None.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="7ccb49fd-bb23-4f46-9b11-5bbb80243c58" name="Alea - Small Escort Flyer" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="90026891-9957-4075-b8b0-b8d5c8e22d66" name="Aerial" hidden="false" targetId="887d8745-43c6-4b7b-ab75-aa49b4c408c1" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="30"/>
+      </costs>
+      <profiles>
+        <profile id="da313e67-3479-4119-845b-27126b315fec" name="Alea" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Small Escort Flyer</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Defensive</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Small Aerial Escort Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">0"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">360-Degrees</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">Attachment Only</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Surface Mines x1: 4 / - / - / -</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">3</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">5</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">14"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">2</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">1</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">2</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">1</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">1</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">None</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Attachment (CoA Aerial Large/Massive, 3); Evasive Manoeuvre (+2); Pack Tactics (Ack-Ack); Small Target</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">None.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="14b0a417-5357-49ff-b2a4-74c79e5c385c" name="Theon - Strike Interceptor" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="efa7def4-41b6-4c22-b795-5b6cfac5a69c" name="Aerial" hidden="false" targetId="887d8745-43c6-4b7b-ab75-aa49b4c408c1" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="40"/>
+      </costs>
+      <profiles>
+        <profile id="fced85ba-0920-441c-98c7-d75ba1278d75" name="Theon" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Strike Interceptor</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Defensive</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Small Aerial Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">0"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">360-Degrees</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">2-3</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Fore Guns (S): 7 / - / - / -</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">3</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">5</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">15"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">3</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">2</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">3</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">1</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">1</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">None</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Evasive Manoeuvre (+1); Hunter (Aerial, Fore Guns, +1); Pack Tactics (Fore Guns, 1); Small Target</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">Sturginium (Fore Guns) Munitions Type.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="554331f1-923a-4a85-8201-9f07c3f74b4a" name="Pytheus - Small Flyer" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="85e46e1a-cbac-4c95-8ec7-10a367c45f01" name="Aerial" hidden="false" targetId="887d8745-43c6-4b7b-ab75-aa49b4c408c1" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="25"/>
+      </costs>
+      <profiles>
+        <profile id="b8b9ae5a-1275-4cd3-a3af-38f4775f7a62" name="Pytheus" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Small Flyer</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Defensive</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Small Aerial Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">0"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">360-Degrees</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">2-5</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Bomb Bay (T): 3 / - / - / -</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">3</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">5</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">14"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">2</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">1</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">2</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">2</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">1</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">None</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Evasive Manoeuvre (+2); Hunter (Surface, Bombs, +1); Small Target</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">None.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="1165270b-d1a8-452a-9a8c-9444500ba4df" name="Coeus - Dreadnought-Robot" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="6bd8273c-1c7b-4f28-8e53-52f99ae62592" name="Armoured &amp; Robots" hidden="false" targetId="fdef102c-b4a3-4ef8-abc5-eb7d99708151" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="380"/>
+      </costs>
+      <profiles>
+        <profile id="dedc018e-7ab2-440f-996e-4493230b2e3b" name="Coeus" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Dreadnought-Robot</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Elite</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Massive Armoured Capital Multi Purpose Robot</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">0"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">360-Degrees</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">1</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Particle Accelerator (T): 13 / - / - / -</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">7</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">14</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">6"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">10</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">12</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">4</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">4</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">9</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">Back Mounted Rocket Battery (T); Rocket Battery (T) x3</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">All-Terrain; Crushing Impact (Boarding); Hull Breaker (Boarding Only, +D3); Inventive Scientists; Strategic Objective (150); Terrifying (Boarding + Ramming); Wing Launcher (4)</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">Internal Guardian (2,8",Protective=2) Generator fitted. Pinpoint Attack (Rockets) Munitions Type.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">REARING EXPULSION: may target a single model in the Flying Height Band with its Particle Accelerator, hitting on a 5+ with no other modifiers. COEUS BOARDING ATTACKS: may use Energised Bite Attack or Crushing Grip Attack instead of a standard Robot Boarding Attack (see PDF for full text).</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="97d3557b-cfe3-42d7-b7ee-699e8a6ea16d" name="Herodotus - Drone Launcher Walker" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="17885a4b-a047-42d4-99bb-69a29e88a7bf" name="Armoured &amp; Robots" hidden="false" targetId="fdef102c-b4a3-4ef8-abc5-eb7d99708151" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="190"/>
+      </costs>
+      <profiles>
+        <profile id="e0276840-c932-4a39-8bb0-d84cf20ec171" name="Herodotus" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Drone Launcher Walker</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Elite</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Massive Armoured Capital Robot</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">0"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">Large</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">3"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">1</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">P/S Broadside (S): 9 / 7 / 4 / 2</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">6</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">9</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">6"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">9</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">6</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">7</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">4</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">7</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">Particle Accelerator (S); Bombard Rocket Battery (T)</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Carrier (9, 2x4 Drone Wings); Fuel Reserves; Inventive Scientists; Strategic Value (100); Combat Coordinator (COA:SAS, Hunter (Aerial +1), Swarm Tactics, 16")</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">Internal Shield (3) Generator fitted.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="111eaa7a-f866-4442-a4c8-5cd49752c677" name="Arronax - Assault Robot" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="594f3005-bbcd-4b10-bd3e-49cac0708cee" name="Armoured &amp; Robots" hidden="false" targetId="fdef102c-b4a3-4ef8-abc5-eb7d99708151" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="130"/>
+      </costs>
+      <profiles>
+        <profile id="179ceb52-5659-4732-86b0-e3f78c04b8d7" name="Arronax" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Assault Robot</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Elite</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Large Armoured Capital Burrowing Multi-Purpose Robot</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">0"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">Large</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">1"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">1</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Maw Gun (S): 14 / 9 / 8 / -</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">5</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">8</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">7"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">6</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">6</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">3</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">3</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">7</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">None</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">All Terrain; Crushing Impact (Boarding); Hull Breaker (Boarding+Rams, +D3); Sustained Assault (2); Terrifying (Ram Action + Boarding Action)</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">Concussive (Maw Gun) Munitions Type. Internal Sonic (12") Generator fitted.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="44ea5852-fed4-4ad9-a319-8d9144f2e28e" name="Archimedes - Command Robot" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="f9a65174-aedc-4e16-972e-803437ac5278" name="Armoured &amp; Robots" hidden="false" targetId="fdef102c-b4a3-4ef8-abc5-eb7d99708151" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="160"/>
+      </costs>
+      <profiles>
+        <profile id="264bafee-406f-4e40-b18f-7a29a3072535" name="Archimedes" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Command Robot</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Elite</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Large Armoured Capital Robot</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">0"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">360-Degrees</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">1</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Main Turret (P): 9 / 7 / 5 / 3</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">5</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">8</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">6"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">8</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">6</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">6</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">2</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">6</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">Claw Guns (S); Rocket Battery (T); Energy Turrets (S)</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Crushing Impact (Boarding); Hull Breaker (Boarding, +D3); Inventive Scientists</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">Internal Shield (2) Generator free. May add Disruption (8") Generator for +10pts. May replace TWO Main Turrets (P) with TWO Energy Turrets (S) free.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="6376e8b3-a139-4e5b-b516-3f47d7c8bc21" name="Callimachus-Alpha - Time Orb" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="d67e85df-1ebb-4671-a62a-4f571e6ae63f" name="Armoured &amp; Robots" hidden="false" targetId="fdef102c-b4a3-4ef8-abc5-eb7d99708151" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="100"/>
+      </costs>
+      <profiles>
+        <profile id="49fe9c4e-c326-4907-b2d3-7992c0555457" name="Callimachus-Alpha" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Time Orb</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Defensive</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Large Armoured Capital Multi-Purpose Robot</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">0"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">360-Degrees</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">1</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">None</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">5</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">8</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">6"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">7</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">4</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">4</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">2</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">3</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">None</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Combustible Cargo; Inventive Scientists</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">Internal Dilation Field (12") Generator and Internal Teleport (Medium,24") Generator fitted.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="657c035e-d9d7-4761-9ccd-53a1dce3cc06" name="Callimachus-Beta - Battle Orb" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="b525298e-6708-45ae-ade6-23a51601cabf" name="Armoured &amp; Robots" hidden="false" targetId="fdef102c-b4a3-4ef8-abc5-eb7d99708151" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="95"/>
+      </costs>
+      <profiles>
+        <profile id="1b3db99a-affe-4fdc-b02b-b14c8e7ffe4e" name="Callimachus-Beta" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Battle Orb</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Defensive</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Large Armoured Capital Multi-Purpose Robot</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">0"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">360-Degrees</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">1</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Energy Blast (S): 3D6 / 2D6 / 1D6 / -</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">5</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">8</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">7"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">7</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">5</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">5</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">3</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">3</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">None</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Inventive Scientists; Vulnerable</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">Internal Time Flow Generator and Internal Shield (2) Generator fitted.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="fd2dc25a-79b9-469c-a358-f1b44997e5cd" name="Skorpios - Heavy Tank-Hunter Walker" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="ca32b972-8b03-4d84-aaa9-ff94848a6ebb" name="Armoured &amp; Robots" hidden="false" targetId="fdef102c-b4a3-4ef8-abc5-eb7d99708151" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="80"/>
+      </costs>
+      <profiles>
+        <profile id="a0ac53a0-6d8b-4ddd-8611-8adac46388e7" name="Skorpios" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Heavy Tank-Hunter Walker</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Elite</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Medium Armoured Capital Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">0"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">360-Degrees</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">2-3</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Long Lance (P): 7 / 7 / 5 / 5</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">4</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">6</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">6"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">4</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">2</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">1</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">1</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">3</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">None</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">All Terrain; Inventive Scientists</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">Piercing and Lethal (Long Lance) Munitions Types. Internal Shield (2) Generator fitted.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="6d34cb1b-ed01-42f0-8c87-5f867335b280" name="Socrates - Bombard Tank" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="353d47d7-523d-40e6-97bb-6c00f1b2801f" name="Armoured &amp; Robots" hidden="false" targetId="fdef102c-b4a3-4ef8-abc5-eb7d99708151" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="60"/>
+      </costs>
+      <profiles>
+        <profile id="0d2b132a-eb3c-44e8-b05d-81fe19a10008" name="Socrates" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Bombard Tank</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Defensive</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Medium Armoured Capital Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">0"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">360-Degrees</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">2-3</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Fore Bombard (P): 8 / 7 / 6 / 5</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">4</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">6</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">5"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">3</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">1</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">1</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">1</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">2</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">None</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">None</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">None.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="12538da9-670f-4349-9689-66fd5b90d545" name="Orpheus - Drone Controller Tank" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="c7edc9ba-ff36-4ba4-ab1f-179eef54adbd" name="Armoured &amp; Robots" hidden="false" targetId="fdef102c-b4a3-4ef8-abc5-eb7d99708151" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="30"/>
+      </costs>
+      <profiles>
+        <profile id="c772c6a7-4d41-4e6a-8f13-b18677ba3712" name="Orpheus" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Drone Controller Tank</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Elite</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Medium Armoured Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">0"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">360-Degrees</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">Attachment Only</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">P/S Guns (S): 4 / 3 / 2 / -</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">3</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">5</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">8"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">3</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">1</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">3</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">1</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">1</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">None</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Attachment (CoA: Armoured Non-Small, 1); Wing Launcher (1); Combat Coordinator (COA:SAS, 8", Hunter, Surface +1)</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">May upgrade to Combat Coordinator (CoA:Robots,Sustained Assault(1),8") for +10pts, or Combat Coordinator (CoA:SAS,Vertical Dive,8") for +10pts.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="232842f9-0236-47da-9c48-92144e9f7404" name="Atticus - Medium Walker" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="46817f53-4dc6-48cf-9183-b6ac93a5460c" name="Armoured &amp; Robots" hidden="false" targetId="fdef102c-b4a3-4ef8-abc5-eb7d99708151" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="40"/>
+      </costs>
+      <profiles>
+        <profile id="45222510-b659-4f43-9869-6c004438d54e" name="Atticus" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Medium Walker</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Elite</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Medium Armoured Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">0"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">360-Degrees</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">2-3</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Fore Guns (S): 7 / 5 / 3 / -</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">4</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">6</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">8"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">3</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">2</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">3</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">1</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">2</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">P/S Guns (S)</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">All Terrain</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">None.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="1373f405-e116-41b4-bf57-db3fe69dc404" name="Janus - Infantry Portal Walker" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="4ac57532-c12e-4f6c-ba50-177fea9993c2" name="Armoured &amp; Robots" hidden="false" targetId="fdef102c-b4a3-4ef8-abc5-eb7d99708151" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="30"/>
+      </costs>
+      <profiles>
+        <profile id="5e2cad79-50c9-4485-b4ad-e2e318cfd5c2" name="Janus" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Infantry Portal Walker</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Elite</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Small Armoured Walker</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">0"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">360-Degrees</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">Attachment Only</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">None</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">3</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">5</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">10"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">2</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">1</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">2</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">1</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">1</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">None</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">All Terrain; Attachment (CoA: Armoured, 1); Elusive Target; Small Target</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">External Teleport (Tiny,16") Generator fitted.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="3b3cb1d9-9d33-4410-b5d2-044a03b04d3e" name="Xenophon - Small Walker" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="3ef3dc57-6ea0-42c6-85b4-d21f1fc529ca" name="Armoured &amp; Robots" hidden="false" targetId="fdef102c-b4a3-4ef8-abc5-eb7d99708151" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="25"/>
+      </costs>
+      <profiles>
+        <profile id="c2561dab-64e6-4328-985d-513c9d0146a3" name="Xenophon" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Small Walker</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Elite</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Small Armoured Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">0"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">360-Degrees</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">2-5</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Fore Guns (S): 4 / 3 / - / -</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">3</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">5</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">10"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">2</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">1</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">2</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">1</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">1</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">None</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">All Terrain; Elusive Target; Small Target</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">None.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="197e66da-28d1-43e0-aa1d-48bbec0ae341" name="Colossus - Small Robot" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="7659237f-c9ca-4870-b9ac-0630459ac8cd" name="Armoured &amp; Robots" hidden="false" targetId="fdef102c-b4a3-4ef8-abc5-eb7d99708151" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="20"/>
+      </costs>
+      <profiles>
+        <profile id="5b12dfad-05e1-4b0e-b735-544aa83eab7e" name="Colossus" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Small Robot</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Elite</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Small Armoured Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">0"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">360-Degrees</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">2-5</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Fore Guns (S): 5 / - / - / -</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">3</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">5</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">6"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">2</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">2</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">2</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">1</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">1</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">None</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Elusive Target; Small Target</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">None.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="47e4b6bf-3764-4d88-bca1-05404ac13386" name="Bunker Complex - Universal Fortification" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="3b402739-cd93-47c1-93d6-82fb75229cc3" name="Fortifications" hidden="false" targetId="22a3253a-cbce-4096-8341-58a661dcbb34" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="170"/>
+      </costs>
+      <profiles>
+        <profile id="fe57c002-bed3-4e77-adf7-82b08f2feac9" name="Bunker Complex" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Universal Fortification</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Defensive</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Massive Capital Fortification</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">0"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">0</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">1</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Main Turret (P): 12 / 9 / 7 / 5</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">6</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">12</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">0"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">10</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">6</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">7</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">0</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">14</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">Heavy Energy Turret (S); Bombard Rocket Battery (T)</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Long Range Assault; Minefield (AD4,5); Redoubtable; Rugged Construction (2); Security Posts (3); Strategic Value (50)</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">Internal Shield (2) Generator free. May add Internal Target Painter (Primary &amp; Secondary Weapons,24") for +20pts. May replace Main Turrets (P) with Heavy Energy Turrets (S) for +10pts.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="70d4307b-497c-4263-82a9-bb4e8705ef87" name="Heavy Infantry Bunker - Land Fortification" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="2a1ba1fd-cb50-490e-b1cc-8555df136299" name="Fortifications" hidden="false" targetId="22a3253a-cbce-4096-8341-58a661dcbb34" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="120"/>
+      </costs>
+      <profiles>
+        <profile id="0b3542cf-a03e-4ad9-90e4-edb00c2e8bfe" name="Heavy Infantry Bunker" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Land Fortification</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Defensive</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Large Capital Fortification</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">0"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">0</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">1</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Main Turret (P): 10 / 8 / 6 / 4</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">5</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">12</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">0"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">10</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">7</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">4</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">0</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">12</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">None</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Combat Deployment (CoA, Line Infantry, 3); Long Range Assault; Minefield (AD4,5); Redoubtable; Rugged Construction (2); Security Posts (3)</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">May upgrade Crew Type Defensive-&gt;Stoic for +20pts. The 3x Line Infantry may be upgraded to 3x Assault Infantry (+15pts), 3x Close Support Infantry (+30pts), or 3x Engineer Infantry (+30pts).</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="2689bc77-0d1e-4287-bcb6-ec85d7807ed3" name="Forward Landing Field - Universal Fortification" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="d90e2d10-c6bb-4ab4-b152-63694d1860fa" name="Fortifications" hidden="false" targetId="22a3253a-cbce-4096-8341-58a661dcbb34" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="120"/>
+      </costs>
+      <profiles>
+        <profile id="e64889e5-542f-43b0-a8e9-627d0185fa8b" name="Forward Landing Field" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Universal Fortification</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Non-Combatant</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Massive Fortification</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">0"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">0</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">1</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Quad Turret (S): 8 / 6 / 4 / 2</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">5</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">8</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">0"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">6</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">7</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">5</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">2</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">8</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">None</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Carrier (9, 2x4 Drone Wings); Fuel Reserves; High Angle (Quad Turrets); Strategic Value (100); Vulnerable</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">None.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="20f7221c-65c3-4638-a1ef-f5e896afa987" name="Medium Infantry Bunker - Land Fortification" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="0996aa2e-aa49-4c65-9075-a77d0a55518f" name="Fortifications" hidden="false" targetId="22a3253a-cbce-4096-8341-58a661dcbb34" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="50"/>
+      </costs>
+      <profiles>
+        <profile id="e8d2bb9c-4b73-47c7-abde-70b297ef6747" name="Medium Infantry Bunker" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Land Fortification</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Defensive</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Large Capital Fortification</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">0"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">0</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">1</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">None</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">4</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">6</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">0"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">4</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">4</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">3</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">3</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">6</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">None</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Combat Deployment (CoA, Line Infantry, 2); Long Range Assault; Redoubtable; Rugged Construction (1); Security Posts (1)</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">The 2x Line Infantry may be upgraded to 2x Assault Infantry (+10pts), 2x Close Support Infantry (+20pts), or 2x Engineer Infantry (+20pts).</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="c5b3c060-29de-4fde-be48-9a83158e1f4b" name="Small Infantry Bunker - Land Fortification" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="dd23bbc9-2134-4db3-bb4f-6225446b9424" name="Fortifications" hidden="false" targetId="22a3253a-cbce-4096-8341-58a661dcbb34" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="25"/>
+      </costs>
+      <profiles>
+        <profile id="38f2fbdb-558c-496e-bac9-4c5c96015fe5" name="Small Infantry Bunker" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Land Fortification</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Defensive</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Large Capital Fortification</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">0"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">0</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">2-3</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">None</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">3</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">5</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">0"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">2</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">2</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">1</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">1</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">4</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">None</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Combat Deployment (CoA, Line Infantry, 1); Long Range Assault; Rugged Construction (1)</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">The 1x Line Infantry may be upgraded to 1x Assault Infantry (+5pts), 1x Close Support Infantry (+10pts), or 1x Engineer Infantry (+10pts).</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="2fc3c484-9822-4ffb-ba8f-46c84e8131c9" name="Tower Defensive Line - Universal Fortification" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="40bd47c9-9e21-4ace-a268-f8a83d631411" name="Fortifications" hidden="false" targetId="22a3253a-cbce-4096-8341-58a661dcbb34" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="0"/>
+      </costs>
+      <profiles>
+        <profile id="8db7096d-52a1-457d-956d-e8b634289ab0" name="Tower Defensive Line" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Universal Fortification</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Defensive</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Medium Capital Fortification</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">0"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">0</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">2-4</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Main Turret (P): 10 / 8 / 6 / 4</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">4</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">6</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">0"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">5</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">4</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">2</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">0</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">7</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">None</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Inventive Scientists; Redoubtable; Rugged Construction (2); Security Posts (1)</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">Base cost is variable (***) - each Tower in the squadron MUST take ONE of: Communications Tower (+40pts, Combat Coordinator [CoA, Die Hard Attitude,12"]); Flak Tower (+40pts, AA becomes 5, gains Heavy Ack-Ack &amp; Sustained Fire [Ack Ack,2]); Generator Tower (+35pts, gains a Main Turret (P) and MUST choose Shield (2) Generator [+35pts] or Disruption (8") Generator [+25pts]). Set this entry's points to match the Tower type(s) taken - the base line item alone has no points value in the source PDF.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="d7ca7e5f-53ab-47fd-89d0-217a0441444d" name="Infantry Company (Assault Infantry) - Assault Infantry" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="6270f191-c5b3-434f-b935-db3c64c6983e" name="Infantry" hidden="false" targetId="cda114f9-d24e-442c-96b3-0dbadc417d30" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="25"/>
+      </costs>
+      <profiles>
+        <profile id="780b1417-9c0f-4d16-a74a-f3cc5c1e0fba" name="Infantry Company (Assault Infantry)" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Assault Infantry</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Reckless</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Tiny Armoured Infantry</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">0"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">360-Degrees</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">1-3</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">None</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">3</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">5</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">5"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">3</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">3</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">1</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">0</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">0</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">None</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Difficult Target; Elusive Target; Fearless; Sustained Assault (2)</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">May become Mechanised.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="3a0f2fc3-87ef-4d74-b5fa-46b376e47365" name="Infantry Company (Engineer Infantry) - Engineer Infantry" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="630510b9-ab37-4dba-ac36-938c9e334286" name="Infantry" hidden="false" targetId="cda114f9-d24e-442c-96b3-0dbadc417d30" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="30"/>
+      </costs>
+      <profiles>
+        <profile id="ba06b032-115b-42d0-af55-ccd0517e292a" name="Infantry Company (Engineer Infantry)" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Engineer Infantry</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Defensive</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Tiny Armoured Repair Infantry</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">0"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">360-Degrees</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">1-3</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">None</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">3</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">4</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">5"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">3</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">3</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">1</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">0</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">0</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">None</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Difficult Target; Elusive Target; Fearless</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">May become Mechanised.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="6ef22699-727d-4abe-a18c-3bf8f8e158e5" name="Infantry Company (Close Support Infantry) - Close Support Infantry" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="f566fd8f-68e4-41c3-85c9-eec4fc479491" name="Infantry" hidden="false" targetId="cda114f9-d24e-442c-96b3-0dbadc417d30" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="30"/>
+      </costs>
+      <profiles>
+        <profile id="f0126977-ea0d-427f-bff3-73a403f1c0fd" name="Infantry Company (Close Support Infantry)" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Close Support Infantry</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Defensive</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Tiny Armoured Infantry</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">0"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">360-Degrees</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">1-3</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">Close Mortars (S): 3 / 5 / - / -</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">3</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">4</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">3"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">3</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">2</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">1</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">0</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">0</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">None</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Difficult Target; Elusive Target; Fearless; Sustained Fire (Close Mortars, 2)</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">May become Mechanised.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry id="ee285b48-281f-4e29-aba2-f97b3847b688" name="Infantry Company (Reconnaissance Infantry) - Reconnaissance Infantry" hidden="false" collective="false" type="unit">
+      <categoryLinks>
+        <categoryLink id="b56775c2-4d6c-4da3-a610-64468ffd38c4" name="Infantry" hidden="false" targetId="cda114f9-d24e-442c-96b3-0dbadc417d30" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="4cbc1e68-9484-40b1-aae1-fc105edf12f1" value="30"/>
+      </costs>
+      <profiles>
+        <profile id="797a2d6c-de93-483a-b749-df673a3879e6" name="Infantry Company (Reconnaissance Infantry)" hidden="false" typeId="b96e8589-ced8-414c-8c4c-12efd28b536b" typeName="Model Stats">
+          <characteristics>
+            <characteristic name="Role" typeId="bc88191e-7566-4505-b6d9-07bc55177e7f">Reconnaissance Infantry</characteristic>
+            <characteristic name="Crew Type" typeId="0fdf85e0-d744-4d76-b24b-ffe349c3e8de">Defensive</characteristic>
+            <characteristic name="Class" typeId="7aea514b-d891-4546-a7be-75922bb13c41">Tiny Armoured Infantry Model</characteristic>
+            <characteristic name="Min Move" typeId="c55aeffb-de1d-480f-a135-57c1016e4642">0"</characteristic>
+            <characteristic name="Turning Template" typeId="ff986c3c-74f3-471b-a11e-360f8bb827b8">360-Degrees</characteristic>
+            <characteristic name="Turn Limit" typeId="fc7ca732-98d2-40ad-b14d-774f4faa40be">0"</characteristic>
+            <characteristic name="Squadron Size" typeId="7e08a77a-5e64-424a-a908-ef5e63c88326">1</characteristic>
+            <characteristic name="Primary Weapon (RB1/RB2/RB3/RB4)" typeId="259810da-c8ec-4be4-b01d-8ce9600c4832">None</characteristic>
+            <characteristic name="DR" typeId="7bc42582-e0f4-4642-841c-70c2afa6567c">3</characteristic>
+            <characteristic name="CR" typeId="6208c213-9ab9-4d7d-870b-c4c711d0a6d1">4</characteristic>
+            <characteristic name="MV" typeId="7bd00015-52e9-4e64-b553-2e6430e9df15">8"</characteristic>
+            <characteristic name="HP" typeId="156098ad-daae-485e-a26f-26111c06d7cc">3</characteristic>
+            <characteristic name="AP" typeId="5eca084d-ba5d-43f8-b963-fa526a27d0dd">2</characteristic>
+            <characteristic name="AA" typeId="3849d4dc-a798-4145-b21b-4f1ed6004514">1</characteristic>
+            <characteristic name="CC" typeId="32009e77-2c2c-43d9-ac20-109d3114a559">0</characteristic>
+            <characteristic name="IR" typeId="a70562b5-56d4-4534-86fd-8cc3875f8859">0</characteristic>
+            <characteristic name="Other Weapons (see rulebook for RB values)" typeId="466ff76b-4abc-4ced-9ad8-28a3498f3161">None</characteristic>
+            <characteristic name="Model Assigned Rules (MARs)" typeId="be5f2e89-1972-47c5-82ce-657d83b242ed">Difficult Target; Elusive Target; Fearless; Spotter (24")</characteristic>
+            <characteristic name="Options / Upgrades (points not auto-added)" typeId="87708afb-35c4-4ead-867a-4db01f012f98">May become Mechanised.</characteristic>
+            <characteristic name="Special Rules" typeId="373cb179-6e21-401d-a25c-ec093eedb3d1">None</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+  </selectionEntries>
+  <entryLinks/>
+  <sharedProfiles/>
+  <sharedSelectionEntries/>
+  <sharedSelectionEntryGroups/>
+  <publications/>
+</catalogue>
